@@ -1,6 +1,4 @@
-# Symbiosis-Project
-
-## Three-Tier Web Architecture: Step-by-Step Process
+# Symbiosis-Project: Step-by-Step Process
 
 # Tier Architecture explanation
 
@@ -9,9 +7,6 @@
 - **Application Server**: This middle part manages the business logic and processes user actions. For example, it checks the inventory to see if a product is in stock or updates a user's account details.
 
 - **Database Server**: This is the back-end part that stores all the data for the application. It uses databases like MySQL or PostgreSQL to keep track of information.
-
-Looking for more videos on AWS and DevOps follow me on youtube here [![YouTube Channel](https://img.shields.io/badge/YouTube-Channel-red?logo=youtube&style=flat-square)](https://www.youtube.com/@avizway)
-
 
 
 ![Three-Tier Architecture](https://avinash.s3.amazonaws.com/3tier.png)
